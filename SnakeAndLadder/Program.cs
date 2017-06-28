@@ -91,18 +91,25 @@ namespace SnakeAndLadder
         public void GenerateSnakesAndLadders()
         {
             // Snakes
-            SnakesOrLadders.Add(15, 9);
-            SnakesOrLadders.Add(30, 16);
-            SnakesOrLadders.Add(50, 28);
-            SnakesOrLadders.Add(72, 56);
-            SnakesOrLadders.Add(98, 75);
+            SnakesOrLadders.Add(18 , 7);
+            SnakesOrLadders.Add(59, 49);
+            SnakesOrLadders.Add(86, 23);
+            SnakesOrLadders.Add(94, 72);
+            SnakesOrLadders.Add(99, 77);
+
 
 
             // Ladders
-            SnakesOrLadders.Add(10, 20);
-            SnakesOrLadders.Add(25, 40);
-            SnakesOrLadders.Add(45, 62);
-            SnakesOrLadders.Add(55, 80);
+            SnakesOrLadders.Add(3, 16);
+            SnakesOrLadders.Add(10, 32);
+            SnakesOrLadders.Add(21, 37);
+            SnakesOrLadders.Add(28, 82);
+            SnakesOrLadders.Add(39, 60);
+            SnakesOrLadders.Add(51, 67);
+            SnakesOrLadders.Add(63, 81);
+            SnakesOrLadders.Add(69, 91);
+
+
 
         }
         public void Reset()
