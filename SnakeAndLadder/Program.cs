@@ -9,6 +9,7 @@ namespace SnakeAndLadder
     class Program
     {
         static void Main(string[] args)
+
         {
             Board game = new Board();
 
